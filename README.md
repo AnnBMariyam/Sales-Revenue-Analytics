@@ -67,6 +67,3 @@ The goal is to demonstrate end-to-end data analytics skills including ETL, explo
 - GitHub
 
 ---
-
-## 📂 Project Structure
-See folders for raw data, cleaned data, notebooks, and visualizations.

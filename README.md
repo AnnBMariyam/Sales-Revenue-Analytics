@@ -1,5 +1,5 @@
 # Sales-Revenue-Analytics
-End-to-end sales analytics project using ETL, Python, and data visualization
+End-to-end sales analytics project using ETL, Python,SQL and data visualization
 
 ##  Project Overview
 This project analyzes sales and revenue data to uncover key business insights related to profitability, discounting, product performance, and seasonal trends.
@@ -52,16 +52,26 @@ The goal is to demonstrate end-to-end data analytics skills including ETL, explo
 
 ---
 
-##  Business Recommendations
-- Restrict excessive discounting.
-- Reassess pricing strategy for loss-making products.
-- Prioritize high-margin categories for growth.
-- Align promotions with seasonal demand patterns.
+## SQL Analysis
+
+This project also includes SQL-based business analysis on the cleaned sales dataset.
+
+SQL queries were used to analyze:
+- total sales and profit KPIs
+- category performance
+- loss-making sub-categories
+- monthly sales trends
+- discount impact on profitability
+- top customers by sales
+- region-wise performance
+
+Screenshots are added in the imgaes file and the .sqbpro is uploaded in the notebooks file.
 
 ---
 
 ##  Tools Used
 - Python (Pandas, NumPy)
+- SQL
 - Matplotlib, Seaborn
 - Google Colab
 - GitHub

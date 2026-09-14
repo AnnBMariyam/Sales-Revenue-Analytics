@@ -8,8 +8,6 @@
 > **Which products are silently killing your margins?**
 > This project analyzes **9,994 transactions (~$2.3M in sales, $286K profit)** across a retail business to uncover what's driving profit — and what's destroying it.
 
----
-
 ## 📊 Dashboard Preview
 
 ![Sales Revenue Analytics Dashboard](images/Sales_Revenue_Dashboard.png)
@@ -17,8 +15,6 @@
 **Dashboard focus:** Sales and profitability performance across product categories,
 regions, customer segments, and discount levels, with KPI reporting designed to
 highlight revenue drivers and loss-making areas.
-
----
 
 ## 📌 Project Overview
 

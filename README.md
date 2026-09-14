@@ -11,8 +11,7 @@
 ---
 ## 📊 Dashboard Preview
 
-![Sales Revenue Analytics Dashboard](images/Sales_Revenue_Dashboard.png)
-
+![Sales Revenue Analytics Dashboard](images/Sales_Revenue_Dashboard_Final.png)
 **Dashboard focus:** Sales and profitability performance across product categories,
 regions, customer segments, and discount levels, with KPI reporting designed to
 highlight revenue drivers and loss-making areas.

@@ -10,6 +10,16 @@
 
 ---
 
+## 📊 Dashboard Preview
+
+![Sales Revenue Analytics Dashboard](images/Sales_Revenue_Dashboard.png)
+
+**Dashboard focus:** Sales and profitability performance across product categories,
+regions, customer segments, and discount levels, with KPI reporting designed to
+highlight revenue drivers and loss-making areas.
+
+---
+
 ## 📌 Project Overview
 
 This end-to-end analytics project examines retail sales performance across product categories, customer segments, regions, and time — following a full ETL → EDA → SQL Analysis → Visualization workflow.
